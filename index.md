@@ -6,10 +6,10 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Linked File Project]([/files/Day 12 - 21 days to data.pdf](https://www.linkedin.com/pulse/analyst-arent-you-hungry-lets-dive-doordash-omhari-gurung-vrule/?trackingId=EbRoCj7IRSKkBGFYs7LSzg%3D%3D))
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
@@ -31,7 +31,7 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title]([http://example.com/](https://www.linkedin.com/pulse/analyst-arent-you-hungry-lets-dive-doordash-omhari-gurung-vrule/?trackingId=EbRoCj7IRSKkBGFYs7LSzg%3D%3D))
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
